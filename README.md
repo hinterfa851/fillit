@@ -1,1 +1,1 @@
-school project solving full coverage problem using recurcive, backtracking Knuth's Algorithm X
+solution of full coverage problem using recurcive, backtracking Knuth's Algorithm X
